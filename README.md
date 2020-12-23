@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Arman (VectorsMoe)
 <p align="center">
-<img src="https://raw.githubusercontent.com/man-x199/PudidiXBOT2/main/Pudidi/Man.jpg" width="230" height="230"/>
+<img src="https://raw.githubusercontent.com/man-x199/PudidiXBOT2/main/Pudidi/Man.jpg" width="1280" height="1280"/>
 </p>
 <br>
 
